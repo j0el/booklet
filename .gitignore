@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+credentials.json
+token.json
+
+# Output PDFs
+*.pdf
+
+# Temp files
+tmp/
+*.log
+
